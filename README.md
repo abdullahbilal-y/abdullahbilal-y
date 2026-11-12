@@ -1,152 +1,56 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Abdullah Bilal, AI engineer in Islamabad. Three pipelines: call to LLM to warm transfer, screen to VLM to click, photo to OCR to invoice.">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=520&height=45&lines=Hi+👋,+I'm+Abdullah+Bilal;AI+Engineer+from+Islamabad;Welcome+to+my+Profile!)](https://github.com/abdullahbilal-y)
-</div>
+I'm an AI engineer in Islamabad. Most of my work is getting LLM systems to hold up in production: a voice agent that answers thousands of calls a day, a desktop agent that reads the screen the way a person would, and a document pipeline that turns WhatsApp photos into invoices. The side projects are tools I wanted and couldn't find.
 
----
+[Portfolio](https://abdullahbilal.nxera.io) · [LinkedIn](https://www.linkedin.com/in/abdullahbilal-y) · [Email](mailto:aabdullahbillall@gmail.com)
 
-<p align="center" style="font-size: 24px;">🚀 AI Engineer</p>
-<p align="center">Building production LLM voice agents, vision-grounded automation and the tools around them.</p>
+## Right now
 
-<p align="center">
-<strong>Python | TypeScript | FastAPI | React | Next.js | Supabase | Docker | LLMs & Computer Vision</strong>
-</p>
+- **Ibras 95 Transport** · Enterprise PMO since Jun 2026. Building the logistics platform for a UAE container haulier.
+- **Nxera** · Freelance since Jun 2025. AI and automation projects, including AI Screen Pilot and Nxera Core.
+- **SZABIST Islamabad** · Finishing a BS in Artificial Intelligence, graduating 2027.
 
-<div align="center">
+## In production
 
-![Profile View](https://komarev.com/ghpvc/?username=abdullahbilal-y&style=flat&color=brightgreen)
-</div>
+These repos are private, so here is the short version.
 
-<div align="center">
-<img align="center" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</div>
+**AiCCA voice agent** · Prime BPO, 2025 to 2026<br>
+The LLM conversation engine behind an AI call agent that qualifies insurance leads and hands them off as warm transfers. It handles over 5,000 calls a day with sub-second responses, and I cut its TTS bill in half along the way.<br>
+`Python` `OpenRouter` `STT/TTS` `VICIdial` `Docker` `Prometheus` `Grafana`
 
-<br/>
+**EIR to invoice** · Ibras 95 Transport<br>
+Drivers send a photo of the receipt to the WhatsApp group they already use. The server stores it, runs OCR, validates the container number down to its check digit, and produces a costed work order ready for invoicing. About 2,000 work orders a month go through it.<br>
+`TypeScript` `Supabase` `PostgreSQL` `OCR` `vision-language models`
 
----
+**AI Screen Pilot** · Nxera<br>
+A voice-controlled desktop agent that files taxes on Pakistan's FBR IRIS portal. A vision-language model finds the buttons and fields on screen and the agent clicks by pixel coordinates, so nothing breaks when the site's markup changes.<br>
+`Python` `React` `Tauri` `Rust`
 
-<!-- Table keeps the intro and avatar side by side without breaking the layout -->
-<table>
-  <tr>
-    <td width="75%" valign="top" style="border: none;">
-      <h1>CURRICULUM VITAE</h1>
-      <p>
-        <a href="#">Profile</a> | <a href="#education">Education</a> | <a href="#my-skill">My Skill</a> | <a href="#working-experiences">Working Experiences</a> | <a href="#projects">Projects</a> | <a href="#languages">Languages</a>
-      </p>
-      <h2>Abdullah Bilal</h2>
-      <!-- Badges -->
-      <a href="https://www.linkedin.com/in/abdullahbilal-y"><img src="https://img.shields.io/badge/LinkedIn-black?color=14171A&labelColor=212121&&logoColor=ffcc80" alt="LinkedIn"></a>
-      <a href="mailto:aabdullahbillall@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Email"></a>
-      <a href="https://abdullahbilal.nxera.io"><img src="https://img.shields.io/badge/Portfolio-abdullahbilal.nxera.io-black?color=14171A&labelColor=1565c0&logoColor=ffffff" alt="Portfolio"></a>
-      <a href="https://github.com/abdullahbilal-y"><img src="https://img.shields.io/badge/GitHub-abdullahbilal--y-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff" alt="GitHub"></a>
-      <br/><br/>
-      Hi There👋, My name is <b>Abdullah Bilal</b>. I am an AI Engineer specialising in production LLM agents, prompt design and automated workflows. I built the conversation engine for a voice agent handling over 5,000 calls a day with sub-second responses, and I build vision-grounded desktop agents that read the screen instead of relying on brittle selectors.
-    </td>
-    <td width="25%" valign="top" align="center" style="border: none;">
-      <br>
-      <a target="_blank" href="https://github.com/abdullahbilal-y">
-        <img src="https://github.com/abdullahbilal-y.png" width="100%" style="border-radius: 50%; max-width: 150px;">
-      </a>
-    </td>
-  </tr>
-</table>
+## Open source
 
-### Languages
-
-- <b>Urdu:</b> Native
-- <b>English:</b> Professional
-
-### Education
-
-- <b><a href="https://szabist-isb.edu.pk" target="_blank">SZABIST, Islamabad:
-  </a></b> - Artificial Intelligence<br>
-  Shaheed Zulfikar Ali Bhutto Institute of Science and Technology<br>
-  Bachelor's Degree (Expected Graduation: Feb 2027)
-
-### My Skill
-
-#### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cpp)](https://skillicons.dev)
-
-#### 🌐 Frontend & Desktop
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,tauri)](https://skillicons.dev)
-
-#### 🛠 Backend & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres)](https://skillicons.dev)
-<br/>
-<img src="https://img.shields.io/badge/REST_APIs-Backend-green?style=flat-square" /> <img src="https://img.shields.io/badge/Workflow_Engines-Automation-green?style=flat-square" />
-
-#### 🗄 Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,gcp,prometheus,grafana,git)](https://skillicons.dev)
-<br/>
-<img src="https://img.shields.io/badge/Hetzner-Cloud-red?style=flat-square&logo=hetzner" /> <img src="https://img.shields.io/badge/FreeSWITCH-Telephony-blue?style=flat-square" /> <img src="https://img.shields.io/badge/VICIdial-Dialer-lightgrey?style=flat-square" />
-
-#### 🤖 AI & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch)](https://skillicons.dev)
-<br/>
-<img src="https://img.shields.io/badge/LLM_Orchestration-OpenRouter-00FFFF?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-Conversation_Design-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Voice_Agents-STT_%7C_TTS-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/Vision--Language_Models-UI_Grounding-9cf?style=flat-square" /> <img src="https://img.shields.io/badge/OCR-Document_Extraction-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-ChromaDB-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/Whisper-CUDA-76B900?style=flat-square&logo=nvidia" />
-
-### Working Experiences
-
-- <b>Ibras 95 Transport L.L.C.</b>
-  <b>Enterprise PMO</b> - Jun 2026 - Present (Remote)
-  <br/>
-  Built the logistics tracking platform and the backend data models and API layer behind its real-time tracking, plus centralized container-document storage and search that replaced hours of scrolling through WhatsApp groups.
-  <br/>
-  <b>Skills & Tools:</b> React, TypeScript, Supabase, PostgreSQL, OCR
-  <br/><br/>
-
-- <b>Nxera</b>
-  <b>AI & Automation Developer (Freelance)</b> - Jun 2025 - Present (Remote)
-  <br/>
-  Independent AI and automation work, including AI Screen Pilot (a vision-grounded desktop agent) and Nxera Core (an automation workflow engine).
-  <br/>
-  <b>Skills & Tools:</b> Python, TypeScript, Node.js, PostgreSQL, LLMs, Computer Vision
-  <br/><br/>
-
-- <b>Prime BPO</b>
-  <b>AI Engineer</b> - Aug 2025 - Jun 2026
-  <br/>
-  Built the LLM conversation engine for AiCCA, a production AI voice agent handling over 5,000 calls daily with sub-second response times. Reduced TTS API costs by 50% and integrated the agent with the VICIdial dialer and CRM workflow.
-  <br/>
-  <b>Skills & Tools:</b> Python, OpenRouter API, STT/TTS, Docker, Prometheus, Grafana
-  <br/>
-
-### Projects
-
-| Project | What it is | Stack |
+| | | |
 | :--- | :--- | :--- |
-| <b><a href="https://github.com/abdullahbilal-y/3drossa">3drossa</a></b> | Engine for scroll-driven 3D web experiences, with a visual path editor that runs inside your own page. Published on npm. | JavaScript |
-| <b><a href="https://github.com/abdullahbilal-y/devsetgo">devsetgo</a></b> | CLI that generates a runnable code playground and architecture diagrams straight from your source code. Published on npm. | TypeScript |
-| <b><a href="https://github.com/abdullahbilal-y/islamabad-air">Hawa</a></b> | Open archive, API, dashboard and alert engine for Islamabad's daily pollen counts. | Python |
-| <b><a href="https://github.com/abdullahbilal-y/dictate-it">DictateIt</a></b> | Free, fully local voice dictation for Windows, powered by faster-whisper and NVIDIA CUDA. | Python |
-| <b>AI Screen Pilot</b> | Voice-controlled, vision-grounded desktop agent that automates tax filing on Pakistan's FBR IRIS portal. (Private) | Python, React, Tauri |
+| **[3drossa](https://github.com/abdullahbilal-y/3drossa)** | Scroll-driven 3D pages without the guess-and-refresh loop. The path editor runs inside your own page, so you drag waypoints over your real copy. | [Live demo](https://abdullahbilal-y.github.io/3drossa/) · `npm i 3drossa` |
+| **[devsetgo](https://github.com/abdullahbilal-y/devsetgo)** | Docs that can't go stale: a CLI that builds a runnable playground and architecture diagrams from the imports actually in your code. | [Playground](https://abdullahbilal-y.github.io/devsetgo/) · `npm i -g devsetgo` |
+| **[Hawa](https://github.com/abdullahbilal-y/islamabad-air)** | Islamabad's daily pollen counts as an open archive, a files-only API and an alert engine. Built because the official page has no history and can't notify you. | [Dashboard](https://abdullahbilal-y.github.io/islamabad-air/) |
+| **[DictateIt](https://github.com/abdullahbilal-y/dictate-it)** | Local voice dictation for Windows. Press `Ctrl+Alt+D` anywhere and speak; faster-whisper on CUDA transcribes in under 100 ms and nothing leaves the machine. | Python |
 
----
+## Toolbox
 
-<h3 align="center">Stats from my public work</h3>
+- **Languages:** Python, TypeScript, JavaScript, C++
+- **AI:** LLM orchestration, prompt and conversation design, speech-to-text and text-to-speech, vision-language models, OCR, RAG with ChromaDB, OpenCV, TensorFlow
+- **Web and backend:** React, Next.js, Tailwind, FastAPI, Node.js, PostgreSQL, Supabase
+- **Ops:** Docker, Azure, Google Cloud, Hetzner, Prometheus, Grafana
+- **Spoken:** English and Urdu, both native
+
+## One lesson I keep coming back to
+
+The first thing I built for Ibras was a driver app. It worked, and the drivers couldn't comfortably use it, so I deleted it and rebuilt the workflow around the WhatsApp habit they already had. Change the system, not the user.
+
 <br>
 
-<div align="center">
-  <!-- Generated by .github/workflows/profile-summary-cards.yml -->
-  <img align="center" src="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Stats" height="195" style="margin-right: 10px; margin-bottom: 16px;"/>
-
-  <img align="center" src="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages" height="195" style="margin-bottom: 16px;"/>
-</div>
-
-<hr>
-
-<div align="center">
-  <!-- Generated by .github/workflows/snake.yml -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br><br>
-
-<div align="center">
-  <a href="#">[Back to top]</a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph drawn as a snake game" src="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
