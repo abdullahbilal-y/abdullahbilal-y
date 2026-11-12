@@ -28,7 +28,7 @@ A voice-controlled desktop agent that files taxes on Pakistan's FBR IRIS portal.
 
 ## Open source
 
-| | | |
+| Project | What it does | Try it |
 | :--- | :--- | :--- |
 | **[3drossa](https://github.com/abdullahbilal-y/3drossa)** | Scroll-driven 3D pages without the guess-and-refresh loop. The path editor runs inside your own page, so you drag waypoints over your real copy. | [Live demo](https://abdullahbilal-y.github.io/3drossa/) · `npm i 3drossa` |
 | **[devsetgo](https://github.com/abdullahbilal-y/devsetgo)** | Docs that can't go stale: a CLI that builds a runnable playground and architecture diagrams from the imports actually in your code. | [Playground](https://abdullahbilal-y.github.io/devsetgo/) · `npm i -g devsetgo` |
@@ -36,6 +36,10 @@ A voice-controlled desktop agent that files taxes on Pakistan's FBR IRIS portal.
 | **[DictateIt](https://github.com/abdullahbilal-y/dictate-it)** | Local voice dictation for Windows. Press `Ctrl+Alt+D` anywhere and speak; faster-whisper on CUDA transcribes in under 100 ms and nothing leaves the machine. | Python |
 
 ## Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,tailwind,fastapi,nodejs,postgres,supabase,docker,azure,gcp,prometheus,grafana,opencv,tensorflow&perline=9" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Tailwind, FastAPI, Node.js, PostgreSQL, Supabase, Docker, Azure, Google Cloud, Prometheus, Grafana, OpenCV, TensorFlow"></a>
+</p>
 
 - **Languages:** Python, TypeScript, JavaScript, C++
 - **AI:** LLM orchestration, prompt and conversation design, speech-to-text and text-to-speech, vision-language models, OCR, RAG with ChromaDB, OpenCV, TensorFlow
@@ -47,7 +51,15 @@ A voice-controlled desktop agent that files taxes on Pakistan's FBR IRIS portal.
 
 The first thing I built for Ibras was a driver app. It worked, and the drivers couldn't comfortably use it, so I deleted it and rebuilt the workflow around the WhatsApp habit they already had. Change the system, not the user.
 
-<br>
+## Activity
+
+<p align="center">
+  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Contribution summary" width="100%">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/gotham/3-stats.svg" alt="GitHub stats" width="49%">
+  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most committed languages" width="49%">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahbilal-y/abdullahbilal-y/output/github-contribution-grid-snake-dark.svg">
